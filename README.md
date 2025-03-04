@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on:<br>A React-based booking system with seamless user experience and state management.<br><br>I’m looking to collaborate on:<br>Frontend projects, especially those involving React, TypeScript, or SaaS platforms.<br><br>I’m looking for help with:<br>Improving my backend skills and exploring advanced state management techniques.<br><br>I’m currently learning:<br>Advanced React patterns, TypeScript, and backend integration with Node.js.<br><br>Ask me about:<br>Frontend development, React best practices, and building scalable web applications.<br><br>Fun fact:<br>I love exploring minimalist design principles and applying them to web interfaces and solving problems on the way. 😊
+<br><br>I’m looking to collaborate on:<br>Frontend projects, especially those involving React,Next Js TypeScript, or SaaS platforms.<br><br>I’m looking for help with:<br>Improving my backend skills and exploring advanced state management techniques.<br><br>I’m currently learning:<br>Advanced React patterns, TypeScript, and backend integration with Node.js.<br><br>Ask me about:<br>Frontend development, React best practices, and building scalable web applications.<br><br>Fun fact:<br>I love exploring minimalist design principles and applying them to web interfaces and solving problems on the way. 😊
 
 
 ## 🌐 Socials:
